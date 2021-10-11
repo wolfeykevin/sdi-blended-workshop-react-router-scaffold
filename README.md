@@ -29,3 +29,8 @@ You will be revisiting the Bottega Veneta wallet page you created during week 5.
 ![bottega-home](/assets/bottega-react-home.png)
 ![bottega-item](/assets/bottega-react-item.png)
 ![walletgif](/assets/walletgif.gif)
+
+## Stretch Goals
+- Implement the ability to add wallets to a shopping cart
+- Implement a checkout process with validated text fields that prevent users from continuing to the next page until all text fields are filled correctly
+- Implement a mock confirmation page that displays submitted user shipping info and order confirmation
