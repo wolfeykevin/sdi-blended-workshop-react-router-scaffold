@@ -16,7 +16,9 @@ Fork & clone this repository
 You will be revisiting the Bottega Veneta wallet page you created during week 5. You will create the application following the instructions below:
 * Recreate the images using hook based React components styled using the `styled-components` styling library.
 * The main store page displaying all wallets should be displayed when visiting the `/` route.
+    * The images for the wallets are contained within the `/images` directory
 * Upon clicking a wallet, the user should be routed to a `/id/{idnumber}` page that will display the detailed specifications of the wallet.
+* On the detailed view route, when the user clicks on one of the smaller images on the right hand side, the main image should switch to reflect the change, and the clicked small image should be highlighted.
 
 ### Endpoints
 
@@ -26,3 +28,4 @@ You will be revisiting the Bottega Veneta wallet page you created during week 5.
 
 ![bottega-home](/assets/bottega-react-home.png)
 ![bottega-item](/assets/bottega-react-item.png)
+![walletgif](/assets/walletgif.gif)
