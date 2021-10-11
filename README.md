@@ -24,5 +24,5 @@ You will be revisiting the Bottega Veneta wallet page you created during week 5.
 
 ### Reference images
 
-![bottega-home](/front-end/assets/bottega-react-home.png)
-![bottega-item](/front-end/assets/bottega-react-item.png)
+![bottega-home](/assets/bottega-react-home.png)
+![bottega-item](/assets/bottega-react-item.png)
